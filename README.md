@@ -1,6 +1,6 @@
-# Course Calendar
+# CalendAI
 
-A comprehensive React application for managing college course schedules, assignments, and study plans. Built with Material UI for a modern, beautiful interface.
+A comprehensive React application for managing college course schedules, assignments, and study plans.
 
 ## Features
 
