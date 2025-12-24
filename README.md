@@ -4,7 +4,7 @@ A comprehensive React application for managing college course schedules, assignm
 
 ## Features
 
-### 📅 Calendar View
+### Calendar View
 - Monthly calendar display with all assignments and study sessions
 - Visual indicators for due dates and priorities
 - Quick add assignment from any date
