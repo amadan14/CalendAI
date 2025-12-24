@@ -10,19 +10,19 @@ A comprehensive React application for managing college course schedules, assignm
 - Quick add assignment from any date
 - Color-coded events by priority
 
-### 📝 Assignment Management
+### Assignment Management
 - Add, edit, and delete assignments
 - Set priorities (High, Medium, Low)
 - Track due dates with visual status indicators
 - Separate views for upcoming and past assignments
 - **Canvas LMS Import**: Import assignments from Canvas calendar exports (.ics or .csv files)
 
-### 🎓 Course Management
+### Course Management
 - Add courses with details (name, code, instructor, credits)
 - Set class schedules (days of week, times, location)
 - View all courses in a card-based layout
 
-### 📚 Study Schedule Generator
+### Study Schedule Generator
 - Automatically generates study schedules based on assignment due dates
 - Distributes study time intelligently based on:
   - Assignment priority
@@ -31,12 +31,12 @@ A comprehensive React application for managing college course schedules, assignm
 - Visual schedule table showing when to study for each assignment
 - Upcoming assignments sidebar
 
-### 💾 Data Persistence
+### Data Persistence
 - All data stored locally in browser (localStorage)
 - No backend required - works completely offline
 - Data persists across browser sessions
 
-### 📤 Calendar Export
+### Calendar Export
 - **ICS Export**: Export your entire calendar as an ICS file
 - Compatible with Google Calendar, Apple Calendar, Outlook, and other calendar apps
 - Includes all assignments, courses, and study sessions
@@ -253,13 +253,6 @@ Ollama provides a free, local LLM that works offline and doesn't require API key
 
 The app will automatically detect when Ollama is running and show the option. Ollama uses RAG (Retrieval-Augmented Generation) with a knowledge base of calendar examples to better understand your requests.
 
-**Benefits:**
-- ✅ Completely free
-- ✅ Works offline
-- ✅ No API keys needed
-- ✅ Your data stays local
-- ✅ Uses RAG training data for better accuracy
-
 ### Setting up GPT (Optional)
 
 The AI assistant uses a rule-based parser by default (works offline, completely free). To use OpenAI's GPT for better understanding:
@@ -284,13 +277,6 @@ The AI assistant uses a rule-based parser by default (works offline, completely 
    import { parseWithLLM as parseNaturalLanguageRequest } from '../utils/aiAgentLLM';
    ```
 6. Restart the app: `npm start`
-
-**Cost:** ~$0.002 per request (very cheap). The $5 free credit gives you ~2,500 requests!
-
-**Note:** 
-- The rule-based parser works great for most requests and is always available
-- **Ollama is recommended** - provides better understanding with no cost or API keys required
-- GPT is optional but provides the best understanding for complex requests
 
 ### RAG Training Data
 
