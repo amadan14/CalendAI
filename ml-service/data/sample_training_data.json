@@ -1,0 +1,95 @@
+{
+  "exportDate": "2024-12-20T12:00:00.000Z",
+  "version": "1.0",
+  "assignments": [
+    {
+      "id": "1",
+      "title": "Math Homework Chapter 5",
+      "course": "MATH 201",
+      "dueDate": "2024-12-25T23:59:59.999Z",
+      "priority": "medium",
+      "description": "Problems 1-20",
+      "createdAt": "2024-12-18T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Physics Lab Report",
+      "course": "PHYS 150",
+      "dueDate": "2024-12-22T23:59:59.999Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-12-15T10:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "CS 101 Programming Project",
+      "course": "CS 101",
+      "dueDate": "2024-12-28T23:59:59.999Z",
+      "priority": "high",
+      "description": "Build a web application",
+      "createdAt": "2024-12-10T10:00:00.000Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Calculus I",
+      "code": "MATH 201",
+      "instructor": "Dr. Smith",
+      "credits": "4",
+      "days": ["monday", "wednesday", "friday"],
+      "startTime": "2024-12-16T09:00:00.000Z",
+      "endTime": "2024-12-16T10:30:00.000Z",
+      "location": "Room 101"
+    },
+    {
+      "id": "2",
+      "name": "Physics",
+      "code": "PHYS 150",
+      "instructor": "Dr. Johnson",
+      "credits": "3",
+      "days": ["tuesday", "thursday"],
+      "startTime": "2024-12-17T11:00:00.000Z",
+      "endTime": "2024-12-17T12:30:00.000Z",
+      "location": "Lab 205"
+    }
+  ],
+  "studySessions": [
+    {
+      "id": "1",
+      "assignmentTitle": "Math Homework Chapter 5",
+      "course": "MATH 201",
+      "date": "2024-12-20",
+      "startTime": "2024-12-20T14:00:00.000Z",
+      "endTime": "2024-12-20T16:00:00.000Z",
+      "duration": 120,
+      "topic": "Chapter 5 problems"
+    },
+    {
+      "id": "2",
+      "assignmentTitle": "Physics Lab Report",
+      "course": "PHYS 150",
+      "date": "2024-12-21",
+      "startTime": "2024-12-21T10:00:00.000Z",
+      "endTime": "2024-12-21T12:00:00.000Z",
+      "duration": 120,
+      "topic": "Lab report writing"
+    },
+    {
+      "id": "3",
+      "assignmentTitle": "CS 101 Programming Project",
+      "course": "CS 101",
+      "date": "2024-12-22",
+      "startTime": "2024-12-22T09:00:00.000Z",
+      "endTime": "2024-12-22T13:00:00.000Z",
+      "duration": 240,
+      "topic": "Project development"
+    }
+  ],
+  "metadata": {
+    "totalAssignments": 3,
+    "totalCourses": 2,
+    "totalStudySessions": 3
+  }
+}
+

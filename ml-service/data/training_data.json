@@ -1,0 +1,3778 @@
+{
+  "exportDate": "2025-12-21T15:44:28.543307Z",
+  "version": "1.0",
+  "assignments": [
+    {
+      "id": "1",
+      "title": "CS 101 Final Project",
+      "course": "CS 101",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on optics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "MATH 301 Experiment Report",
+      "course": "MATH 301",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "CS 101 Practice Problems 2",
+      "course": "CS 101",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-10",
+      "createdAt": "2024-01-21T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "CS 101 Test 3",
+      "course": "CS 101",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "CS 201 Final Project",
+      "course": "CS 201",
+      "dueDate": "2024-02-08T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 6 page paper",
+      "createdAt": "2024-02-03T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "CS 201 Assignment 2",
+      "course": "CS 201",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-10",
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "ART 150 Term Project",
+      "course": "ART 150",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-21",
+      "createdAt": "2024-01-28T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 4 page paper",
+      "createdAt": "2024-01-29T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "CS 101 Homework Chapter 4",
+      "course": "CS 101",
+      "dueDate": "2024-02-02T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 10 page paper",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "BIO 101 Practice Problems 1",
+      "course": "BIO 101",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-28T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "CS 101 Programming Project",
+      "course": "CS 101",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "ART 150 Midterm Exam",
+      "course": "ART 150",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-8",
+      "createdAt": "2024-01-21T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "MATH 301 Assignment 2",
+      "course": "MATH 301",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-15",
+      "createdAt": "2024-01-27T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "dueDate": "2024-01-16T00:00:00Z",
+      "priority": "high",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "MATH 201 Lab Report 2",
+      "course": "MATH 201",
+      "dueDate": "2024-02-11T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 6 page paper",
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "BIO 101 Final Project",
+      "course": "BIO 101",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-21",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "STAT 250 Final Exam",
+      "course": "STAT 250",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "STAT 250 Test 2",
+      "course": "STAT 250",
+      "dueDate": "2024-01-31T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-25",
+      "createdAt": "2024-01-21T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "CHEM 301 Problem Set 1",
+      "course": "CHEM 301",
+      "dueDate": "2024-01-17T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "BIO 101 Writing Assignment",
+      "course": "BIO 101",
+      "dueDate": "2024-01-20T00:00:00Z",
+      "priority": "low",
+      "description": "Write a 10 page paper",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "21",
+      "title": "PHYS 150 Quiz 1",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-25",
+      "createdAt": "2024-01-30T00:00:00Z"
+    },
+    {
+      "id": "22",
+      "title": "MATH 201 Lab 3 Write-up",
+      "course": "MATH 201",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 4-9",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "23",
+      "title": "BIO 101 Test 4",
+      "course": "BIO 101",
+      "dueDate": "2024-01-28T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-22",
+      "createdAt": "2024-01-27T00:00:00Z"
+    },
+    {
+      "id": "24",
+      "title": "MATH 201 Test 4",
+      "course": "MATH 201",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-30",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "25",
+      "title": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "dueDate": "2024-02-02T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-21T00:00:00Z"
+    },
+    {
+      "id": "26",
+      "title": "CS 201 Quiz 3",
+      "course": "CS 201",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 3 page paper",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "27",
+      "title": "CS 101 Research Project",
+      "course": "CS 101",
+      "dueDate": "2024-02-14T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "28",
+      "title": "STAT 250 Assignment 3",
+      "course": "STAT 250",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 8 page paper",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "29",
+      "title": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    {
+      "id": "30",
+      "title": "STAT 250 Practice Problems 4",
+      "course": "STAT 250",
+      "dueDate": "2024-02-11T00:00:00Z",
+      "priority": "high",
+      "description": "Build a mobile app",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "31",
+      "title": "ART 150 Term Project",
+      "course": "ART 150",
+      "dueDate": "2024-02-08T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 3-9",
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "32",
+      "title": "MATH 201 Programming Project",
+      "course": "MATH 201",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 2-10",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "33",
+      "title": "MATH 301 Quick Check",
+      "course": "MATH 301",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 1-6",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "34",
+      "title": "BIO 101 Problem Set 5",
+      "course": "BIO 101",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "35",
+      "title": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 8 page paper",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "36",
+      "title": "STAT 250 Homework Chapter 5",
+      "course": "STAT 250",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    {
+      "id": "37",
+      "title": "ART 150 Assignment 4",
+      "course": "ART 150",
+      "dueDate": "2024-01-20T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "38",
+      "title": "ART 150 Research Project",
+      "course": "ART 150",
+      "dueDate": "2024-02-12T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "39",
+      "title": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-6",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "40",
+      "title": "STAT 250 Practice Problems 6",
+      "course": "STAT 250",
+      "dueDate": "2024-02-09T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-31T00:00:00Z"
+    },
+    {
+      "id": "41",
+      "title": "MATH 201 Problem Set 6",
+      "course": "MATH 201",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "low",
+      "description": "Build a web app",
+      "createdAt": "2024-01-27T00:00:00Z"
+    },
+    {
+      "id": "42",
+      "title": "STAT 250 Paper 7",
+      "course": "STAT 250",
+      "dueDate": "2024-02-09T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a desktop app",
+      "createdAt": "2024-02-03T00:00:00Z"
+    },
+    {
+      "id": "43",
+      "title": "CS 101 Test 7",
+      "course": "CS 101",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "44",
+      "title": "MATH 201 Quiz 7",
+      "course": "MATH 201",
+      "dueDate": "2024-02-09T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 1-7",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "45",
+      "title": "CS 201 Practice Problems 4",
+      "course": "CS 201",
+      "dueDate": "2024-02-07T00:00:00Z",
+      "priority": "low",
+      "description": "Complete problems 1-11",
+      "createdAt": "2024-01-24T00:00:00Z"
+    },
+    {
+      "id": "46",
+      "title": "STAT 250 Term Project",
+      "course": "STAT 250",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 5-6",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "47",
+      "title": "BIO 101 Midterm Exam",
+      "course": "BIO 101",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-28T00:00:00Z"
+    },
+    {
+      "id": "48",
+      "title": "MATH 201 Pop Quiz",
+      "course": "MATH 201",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a mobile app",
+      "createdAt": "2024-02-03T00:00:00Z"
+    },
+    {
+      "id": "49",
+      "title": "ART 150 Quiz 6",
+      "course": "ART 150",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-9",
+      "createdAt": "2024-01-28T00:00:00Z"
+    },
+    {
+      "id": "50",
+      "title": "PHYS 150 Problem Set 2",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on optics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "51",
+      "title": "ART 150 Quiz 7",
+      "course": "ART 150",
+      "dueDate": "2024-01-23T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "52",
+      "title": "BIO 101 Practice Problems 7",
+      "course": "BIO 101",
+      "dueDate": "2024-01-30T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-27",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "53",
+      "title": "STAT 250 Problem Set 9",
+      "course": "STAT 250",
+      "dueDate": "2024-02-12T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-21",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "54",
+      "title": "STAT 250 Homework Chapter 10",
+      "course": "STAT 250",
+      "dueDate": "2024-01-30T00:00:00Z",
+      "priority": "low",
+      "description": "Read chapters 1-9",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "55",
+      "title": "STAT 250 Homework Chapter 11",
+      "course": "STAT 250",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-6",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "56",
+      "title": "CS 201 Homework Chapter 5",
+      "course": "CS 201",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-12",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "57",
+      "title": "STAT 250 Problem Set 12",
+      "course": "STAT 250",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 3-6",
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "58",
+      "title": "MATH 201 Assignment 9",
+      "course": "MATH 201",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "low",
+      "description": "Read chapters 3-10",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "59",
+      "title": "CHEM 301 Assignment 2",
+      "course": "CHEM 301",
+      "dueDate": "2024-01-20T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 7 page paper",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "60",
+      "title": "MATH 301 Assignment 5",
+      "course": "MATH 301",
+      "dueDate": "2024-01-29T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 3-6",
+      "createdAt": "2024-01-29T00:00:00Z"
+    },
+    {
+      "id": "61",
+      "title": "MATH 201 Problem Set 10",
+      "course": "MATH 201",
+      "dueDate": "2024-02-11T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-18",
+      "createdAt": "2024-01-30T00:00:00Z"
+    },
+    {
+      "id": "62",
+      "title": "CS 201 Essay Assignment",
+      "course": "CS 201",
+      "dueDate": "2024-01-24T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 4-7",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "63",
+      "title": "ART 150 Homework Chapter 8",
+      "course": "ART 150",
+      "dueDate": "2024-02-03T00:00:00Z",
+      "priority": "high",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "64",
+      "title": "PHYS 150 Lab 3 Write-up",
+      "course": "PHYS 150",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 4 page paper",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "65",
+      "title": "BIO 101 Problem Set 8",
+      "course": "BIO 101",
+      "dueDate": "2024-01-17T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "66",
+      "title": "ART 150 Quiz 9",
+      "course": "ART 150",
+      "dueDate": "2024-01-17T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "67",
+      "title": "ART 150 Practice Problems 10",
+      "course": "ART 150",
+      "dueDate": "2024-02-12T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-02-04T00:00:00Z"
+    },
+    {
+      "id": "68",
+      "title": "PHYS 150 Practice Problems 4",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-14T00:00:00Z",
+      "priority": "low",
+      "description": "Write a 8 page paper",
+      "createdAt": "2024-01-31T00:00:00Z"
+    },
+    {
+      "id": "69",
+      "title": "CHEM 301 Homework Chapter 3",
+      "course": "CHEM 301",
+      "dueDate": "2024-02-12T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on optics",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "70",
+      "title": "MATH 301 Problem Set 6",
+      "course": "MATH 301",
+      "dueDate": "2024-01-22T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 6 page paper",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "71",
+      "title": "ENG 201 Practice Problems 5",
+      "course": "ENG 201",
+      "dueDate": "2024-01-31T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-29T00:00:00Z"
+    },
+    {
+      "id": "72",
+      "title": "MATH 201 Research Project",
+      "course": "MATH 201",
+      "dueDate": "2024-01-16T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on waves",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "73",
+      "title": "PHYS 150 Pop Quiz",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-12T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "74",
+      "title": "MATH 301 Test 7",
+      "course": "MATH 301",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "75",
+      "title": "ENG 201 Paper 6",
+      "course": "ENG 201",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 6 page paper",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "76",
+      "title": "STAT 250 Programming Project",
+      "course": "STAT 250",
+      "dueDate": "2024-01-16T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 5-6",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "77",
+      "title": "BIO 101 Quiz 9",
+      "course": "BIO 101",
+      "dueDate": "2024-01-22T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on waves",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "78",
+      "title": "MATH 301 Practice Problems 8",
+      "course": "MATH 301",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-17",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "79",
+      "title": "CS 201 Quiz 7",
+      "course": "CS 201",
+      "dueDate": "2024-02-03T00:00:00Z",
+      "priority": "high",
+      "description": "Build a web app",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "80",
+      "title": "CS 201 Paper 8",
+      "course": "CS 201",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a mobile app",
+      "createdAt": "2024-02-10T00:00:00Z"
+    },
+    {
+      "id": "81",
+      "title": "CS 201 Quiz 9",
+      "course": "CS 201",
+      "dueDate": "2024-01-24T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "82",
+      "title": "ART 150 Lab 11 Write-up",
+      "course": "ART 150",
+      "dueDate": "2024-01-23T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 4-7",
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "83",
+      "title": "ART 150 Quiz 12",
+      "course": "ART 150",
+      "dueDate": "2024-01-31T00:00:00Z",
+      "priority": "low",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-24T00:00:00Z"
+    },
+    {
+      "id": "84",
+      "title": "ENG 201 Homework Chapter 7",
+      "course": "ENG 201",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 3-10",
+      "createdAt": "2024-02-07T00:00:00Z"
+    },
+    {
+      "id": "85",
+      "title": "PHYS 150 Experiment Report",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 3-9",
+      "createdAt": "2024-01-30T00:00:00Z"
+    },
+    {
+      "id": "86",
+      "title": "ENG 201 Experiment Report",
+      "course": "ENG 201",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-20",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "87",
+      "title": "MATH 301 Final Project",
+      "course": "MATH 301",
+      "dueDate": "2024-01-20T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 9 page paper",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "88",
+      "title": "CS 101 Programming Project",
+      "course": "CS 101",
+      "dueDate": "2024-02-14T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-26",
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "89",
+      "title": "CS 201 Test 10",
+      "course": "CS 201",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "high",
+      "description": "Build a mobile app",
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    {
+      "id": "90",
+      "title": "STAT 250 Problem Set 14",
+      "course": "STAT 250",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-22T00:00:00Z"
+    },
+    {
+      "id": "91",
+      "title": "ENG 201 Problem Set 9",
+      "course": "ENG 201",
+      "dueDate": "2024-02-03T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on mechanics",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "92",
+      "title": "STAT 250 Assignment 15",
+      "course": "STAT 250",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "low",
+      "description": "Build a web app",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "93",
+      "title": "PHYS 150 Problem Set 7",
+      "course": "PHYS 150",
+      "dueDate": "2024-01-24T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-21T00:00:00Z"
+    },
+    {
+      "id": "94",
+      "title": "ART 150 Essay Assignment",
+      "course": "ART 150",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "95",
+      "title": "CS 201 Research Project",
+      "course": "CS 201",
+      "dueDate": "2024-01-22T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "96",
+      "title": "CS 101 Lab Report 9",
+      "course": "CS 101",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-8",
+      "createdAt": "2024-01-30T00:00:00Z"
+    },
+    {
+      "id": "97",
+      "title": "ART 150 Final Project",
+      "course": "ART 150",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a mobile app",
+      "createdAt": "2024-02-04T00:00:00Z"
+    },
+    {
+      "id": "98",
+      "title": "CS 101 Essay Assignment",
+      "course": "CS 101",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "low",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "99",
+      "title": "ART 150 Quiz 15",
+      "course": "ART 150",
+      "dueDate": "2024-01-30T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on mechanics",
+      "createdAt": "2024-01-25T00:00:00Z"
+    },
+    {
+      "id": "100",
+      "title": "CS 201 Assignment 12",
+      "course": "CS 201",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 1-7",
+      "createdAt": "2024-01-28T00:00:00Z"
+    },
+    {
+      "id": "101",
+      "title": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "dueDate": "2024-01-18T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-11",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "102",
+      "title": "ENG 201 Quick Check",
+      "course": "ENG 201",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-27",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "103",
+      "title": "ENG 201 Assignment 11",
+      "course": "ENG 201",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-23",
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "104",
+      "title": "PHYS 150 Quiz 8",
+      "course": "PHYS 150",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "105",
+      "title": "MATH 201 Quiz 12",
+      "course": "MATH 201",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-22",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "106",
+      "title": "STAT 250 Quiz 16",
+      "course": "STAT 250",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 3-6",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "107",
+      "title": "PHYS 150 Homework Chapter 9",
+      "course": "PHYS 150",
+      "dueDate": "2024-02-08T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-23",
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "108",
+      "title": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-23",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "109",
+      "title": "CS 201 Lab 13 Write-up",
+      "course": "CS 201",
+      "dueDate": "2024-01-17T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 3-8",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "110",
+      "title": "MATH 201 Midterm Exam",
+      "course": "MATH 201",
+      "dueDate": "2024-01-26T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-25T00:00:00Z"
+    },
+    {
+      "id": "111",
+      "title": "CS 201 Assignment 14",
+      "course": "CS 201",
+      "dueDate": "2024-02-09T00:00:00Z",
+      "priority": "low",
+      "description": "Complete problems 1-24",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "112",
+      "title": "MATH 301 Homework Chapter 11",
+      "course": "MATH 301",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on mechanics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "113",
+      "title": "CS 201 Problem Set 15",
+      "course": "CS 201",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "114",
+      "title": "ART 150 Problem Set 16",
+      "course": "ART 150",
+      "dueDate": "2024-01-28T00:00:00Z",
+      "priority": "high",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "115",
+      "title": "STAT 250 Homework Chapter 17",
+      "course": "STAT 250",
+      "dueDate": "2024-02-14T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 2-7",
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "116",
+      "title": "CHEM 301 Final Exam",
+      "course": "CHEM 301",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 1-9",
+      "createdAt": "2024-02-02T00:00:00Z"
+    },
+    {
+      "id": "117",
+      "title": "MATH 301 Quiz 12",
+      "course": "MATH 301",
+      "dueDate": "2024-01-22T00:00:00Z",
+      "priority": "low",
+      "description": "Read chapters 4-8",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "118",
+      "title": "ENG 201 Practice Problems 13",
+      "course": "ENG 201",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 10 page paper",
+      "createdAt": "2024-01-27T00:00:00Z"
+    },
+    {
+      "id": "119",
+      "title": "STAT 250 Practice Problems 18",
+      "course": "STAT 250",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "120",
+      "title": "CS 101 Homework Chapter 11",
+      "course": "CS 101",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-10",
+      "createdAt": "2024-02-05T00:00:00Z"
+    },
+    {
+      "id": "121",
+      "title": "STAT 250 Research Project",
+      "course": "STAT 250",
+      "dueDate": "2024-01-17T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "122",
+      "title": "CHEM 301 Lab Report 5",
+      "course": "CHEM 301",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-12",
+      "createdAt": "2024-02-03T00:00:00Z"
+    },
+    {
+      "id": "123",
+      "title": "ART 150 Writing Assignment",
+      "course": "ART 150",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "medium",
+      "description": "Complete problems 1-17",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "124",
+      "title": "CS 101 Experiment Report",
+      "course": "CS 101",
+      "dueDate": "2024-02-05T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-20",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "125",
+      "title": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "dueDate": "2024-02-11T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-16",
+      "createdAt": "2024-01-31T00:00:00Z"
+    },
+    {
+      "id": "126",
+      "title": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 10 page paper",
+      "createdAt": "2024-01-18T00:00:00Z"
+    },
+    {
+      "id": "127",
+      "title": "MATH 301 Programming Project",
+      "course": "MATH 301",
+      "dueDate": "2024-02-04T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on mechanics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "128",
+      "title": "ENG 201 Homework Chapter 16",
+      "course": "ENG 201",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on optics",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "129",
+      "title": "STAT 250 Quiz 20",
+      "course": "STAT 250",
+      "dueDate": "2024-01-30T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 3 page paper",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "130",
+      "title": "MATH 201 Homework Chapter 14",
+      "course": "MATH 201",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "medium",
+      "description": "Lab on optics",
+      "createdAt": "2024-02-01T00:00:00Z"
+    },
+    {
+      "id": "131",
+      "title": "CS 201 Homework Chapter 16",
+      "course": "CS 201",
+      "dueDate": "2024-02-02T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 9 page paper",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "132",
+      "title": "CHEM 301 Problem Set 6",
+      "course": "CHEM 301",
+      "dueDate": "2024-01-28T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a desktop app",
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "133",
+      "title": "ART 150 Paper 18",
+      "course": "ART 150",
+      "dueDate": "2024-01-19T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-29",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "134",
+      "title": "MATH 301 Lab Report 14",
+      "course": "MATH 301",
+      "dueDate": "2024-01-20T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "135",
+      "title": "CS 101 Lab Report 13",
+      "course": "CS 101",
+      "dueDate": "2024-01-16T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 9 page paper",
+      "createdAt": "2024-01-15T00:00:00Z"
+    },
+    {
+      "id": "136",
+      "title": "MATH 301 Assignment 15",
+      "course": "MATH 301",
+      "dueDate": "2024-01-21T00:00:00Z",
+      "priority": "high",
+      "description": "Lab on thermodynamics",
+      "createdAt": "2024-01-19T00:00:00Z"
+    },
+    {
+      "id": "137",
+      "title": "MATH 201 Assignment 15",
+      "course": "MATH 201",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "low",
+      "description": "Complete problems 1-12",
+      "createdAt": "2024-01-30T00:00:00Z"
+    },
+    {
+      "id": "138",
+      "title": "BIO 101 Term Project",
+      "course": "BIO 101",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-01-20T00:00:00Z"
+    },
+    {
+      "id": "139",
+      "title": "BIO 101 Final Exam",
+      "course": "BIO 101",
+      "dueDate": "2024-01-30T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 4-9",
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "140",
+      "title": "STAT 250 Final Project",
+      "course": "STAT 250",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "141",
+      "title": "PHYS 150 Midterm Exam",
+      "course": "PHYS 150",
+      "dueDate": "2024-01-27T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 3-7",
+      "createdAt": "2024-01-24T00:00:00Z"
+    },
+    {
+      "id": "142",
+      "title": "ENG 201 Problem Set 17",
+      "course": "ENG 201",
+      "dueDate": "2024-02-01T00:00:00Z",
+      "priority": "medium",
+      "description": "Build a web app",
+      "createdAt": "2024-01-27T00:00:00Z"
+    },
+    {
+      "id": "143",
+      "title": "BIO 101 Assignment 12",
+      "course": "BIO 101",
+      "dueDate": "2024-02-11T00:00:00Z",
+      "priority": "high",
+      "description": "Complete problems 1-11",
+      "createdAt": "2024-02-03T00:00:00Z"
+    },
+    {
+      "id": "144",
+      "title": "BIO 101 Lab Report 13",
+      "course": "BIO 101",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "low",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-17T00:00:00Z"
+    },
+    {
+      "id": "145",
+      "title": "CHEM 301 Homework Chapter 7",
+      "course": "CHEM 301",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "medium",
+      "description": "Write a 6 page paper",
+      "createdAt": "2024-02-06T00:00:00Z"
+    },
+    {
+      "id": "146",
+      "title": "CS 101 Test 14",
+      "course": "CS 101",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "medium",
+      "description": null,
+      "createdAt": "2024-01-26T00:00:00Z"
+    },
+    {
+      "id": "147",
+      "title": "ART 150 Final Exam",
+      "course": "ART 150",
+      "dueDate": "2024-01-25T00:00:00Z",
+      "priority": "high",
+      "description": "Write a 5 page paper",
+      "createdAt": "2024-01-16T00:00:00Z"
+    },
+    {
+      "id": "148",
+      "title": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "dueDate": "2024-02-06T00:00:00Z",
+      "priority": "high",
+      "description": "Read chapters 2-6",
+      "createdAt": "2024-01-23T00:00:00Z"
+    },
+    {
+      "id": "149",
+      "title": "CS 201 Homework Chapter 17",
+      "course": "CS 201",
+      "dueDate": "2024-02-13T00:00:00Z",
+      "priority": "medium",
+      "description": "Read chapters 4-6",
+      "createdAt": "2024-02-11T00:00:00Z"
+    },
+    {
+      "id": "150",
+      "title": "CS 101 Midterm Exam",
+      "course": "CS 101",
+      "dueDate": "2024-02-10T00:00:00Z",
+      "priority": "high",
+      "description": null,
+      "createdAt": "2024-02-04T00:00:00Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Linear Algebra",
+      "code": "MATH 301",
+      "instructor": "Dr. Taylor",
+      "credits": "4",
+      "days": [
+        "tuesday",
+        "wednesday",
+        "monday",
+        "friday"
+      ],
+      "startTime": "2024-01-15T14:00:00Z",
+      "endTime": "2024-01-15T15:30:00Z",
+      "location": "Room 342"
+    },
+    {
+      "id": "2",
+      "name": "Introduction to Computer Science",
+      "code": "CS 101",
+      "instructor": "Dr. Williams",
+      "credits": "4",
+      "days": [
+        "friday",
+        "tuesday"
+      ],
+      "startTime": "2024-01-15T09:00:00Z",
+      "endTime": "2024-01-15T10:30:00Z",
+      "location": "Room 112"
+    },
+    {
+      "id": "3",
+      "name": "Statistics",
+      "code": "STAT 250",
+      "instructor": "Dr. Miller",
+      "credits": "3",
+      "days": [
+        "tuesday",
+        "monday"
+      ],
+      "startTime": "2024-01-15T14:00:00Z",
+      "endTime": "2024-01-15T15:30:00Z",
+      "location": "Room 495"
+    },
+    {
+      "id": "4",
+      "name": "Biology",
+      "code": "BIO 101",
+      "instructor": "Dr. Wilson",
+      "credits": "4",
+      "days": [
+        "wednesday",
+        "thursday",
+        "monday"
+      ],
+      "startTime": "2024-01-15T12:00:00Z",
+      "endTime": "2024-01-15T13:30:00Z",
+      "location": "Room 480"
+    },
+    {
+      "id": "5",
+      "name": "History of Art",
+      "code": "ART 150",
+      "instructor": "Dr. Moore",
+      "credits": "3",
+      "days": [
+        "thursday",
+        "tuesday"
+      ],
+      "startTime": "2024-01-15T11:00:00Z",
+      "endTime": "2024-01-15T12:30:00Z",
+      "location": "Room 222"
+    },
+    {
+      "id": "6",
+      "name": "Calculus I",
+      "code": "MATH 201",
+      "instructor": "Dr. Smith",
+      "credits": "4",
+      "days": [
+        "monday",
+        "thursday",
+        "tuesday"
+      ],
+      "startTime": "2024-01-15T09:00:00Z",
+      "endTime": "2024-01-15T10:30:00Z",
+      "location": "Room 443"
+    },
+    {
+      "id": "7",
+      "name": "Organic Chemistry",
+      "code": "CHEM 301",
+      "instructor": "Dr. Brown",
+      "credits": "4",
+      "days": [
+        "thursday",
+        "tuesday",
+        "monday",
+        "wednesday"
+      ],
+      "startTime": "2024-01-15T08:00:00Z",
+      "endTime": "2024-01-15T09:30:00Z",
+      "location": "Room 401"
+    },
+    {
+      "id": "8",
+      "name": "Data Structures",
+      "code": "CS 201",
+      "instructor": "Dr. Anderson",
+      "credits": "4",
+      "days": [
+        "friday",
+        "monday",
+        "wednesday",
+        "thursday"
+      ],
+      "startTime": "2024-01-15T12:00:00Z",
+      "endTime": "2024-01-15T13:30:00Z",
+      "location": "Room 466"
+    },
+    {
+      "id": "9",
+      "name": "English Literature",
+      "code": "ENG 201",
+      "instructor": "Dr. Davis",
+      "credits": "3",
+      "days": [
+        "monday",
+        "tuesday",
+        "friday",
+        "wednesday"
+      ],
+      "startTime": "2024-01-15T10:00:00Z",
+      "endTime": "2024-01-15T11:30:00Z",
+      "location": "Room 402"
+    },
+    {
+      "id": "10",
+      "name": "Physics I",
+      "code": "PHYS 150",
+      "instructor": "Dr. Johnson",
+      "credits": "3",
+      "days": [
+        "monday",
+        "wednesday",
+        "tuesday",
+        "friday"
+      ],
+      "startTime": "2024-01-15T08:00:00Z",
+      "endTime": "2024-01-15T09:30:00Z",
+      "location": "Room 151"
+    }
+  ],
+  "studySessions": [
+    {
+      "id": "1",
+      "assignmentTitle": "CS 101 Final Project",
+      "course": "CS 101",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T17:30:00Z",
+      "endTime": "2024-01-31T19:30:00Z",
+      "duration": 120,
+      "topic": "Review for CS 101 Final Project"
+    },
+    {
+      "id": "2",
+      "assignmentTitle": "CS 101 Final Project",
+      "course": "CS 101",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T14:30:00Z",
+      "endTime": "2024-02-02T16:15:00Z",
+      "duration": 105,
+      "topic": "Review for CS 101 Final Project"
+    },
+    {
+      "id": "3",
+      "assignmentTitle": "CS 101 Final Project",
+      "course": "CS 101",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T13:30:00Z",
+      "endTime": "2024-02-01T15:30:00Z",
+      "duration": 120,
+      "topic": "CS 101 Final Project - Part 3"
+    },
+    {
+      "id": "4",
+      "assignmentTitle": "CS 101 Practice Problems 2",
+      "course": "CS 101",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T19:45:00Z",
+      "endTime": "2024-01-18T21:30:00Z",
+      "duration": 105,
+      "topic": "Work on CS 101 Practice Problems 2"
+    },
+    {
+      "id": "5",
+      "assignmentTitle": "CS 101 Test 3",
+      "course": "CS 101",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T21:00:00Z",
+      "endTime": "2024-01-24T23:15:00Z",
+      "duration": 135,
+      "topic": "CS 101 Test 3 - Part 1"
+    },
+    {
+      "id": "6",
+      "assignmentTitle": "CS 101 Test 3",
+      "course": "CS 101",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T17:30:00Z",
+      "endTime": "2024-01-26T19:45:00Z",
+      "duration": 135,
+      "topic": "Work on CS 101 Test 3"
+    },
+    {
+      "id": "7",
+      "assignmentTitle": "CS 101 Homework Chapter 4",
+      "course": "CS 101",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T16:45:00Z",
+      "endTime": "2024-02-02T19:00:00Z",
+      "duration": 135,
+      "topic": "Work on CS 101 Homework Chapter 4"
+    },
+    {
+      "id": "8",
+      "assignmentTitle": "CS 101 Programming Project",
+      "course": "CS 101",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T19:30:00Z",
+      "endTime": "2024-01-18T23:30:00Z",
+      "duration": 240,
+      "topic": "Work on CS 101 Programming Project"
+    },
+    {
+      "id": "9",
+      "assignmentTitle": "CS 101 Programming Project",
+      "course": "CS 101",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T18:45:00Z",
+      "endTime": "2024-01-19T22:00:00Z",
+      "duration": 195,
+      "topic": "CS 101 Programming Project - Part 2"
+    },
+    {
+      "id": "10",
+      "assignmentTitle": "CS 101 Research Project",
+      "course": "CS 101",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T20:15:00Z",
+      "endTime": "2024-02-09T23:30:00Z",
+      "duration": 195,
+      "topic": "Review for CS 101 Research Project"
+    },
+    {
+      "id": "11",
+      "assignmentTitle": "CS 101 Research Project",
+      "course": "CS 101",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T21:15:00Z",
+      "endTime": "2024-02-10T01:00:00Z",
+      "duration": 225,
+      "topic": "Work on CS 101 Research Project"
+    },
+    {
+      "id": "12",
+      "assignmentTitle": "CS 101 Research Project",
+      "course": "CS 101",
+      "date": "2024-02-14",
+      "startTime": "2024-02-14T13:00:00Z",
+      "endTime": "2024-02-14T16:15:00Z",
+      "duration": 195,
+      "topic": "Work on CS 101 Research Project"
+    },
+    {
+      "id": "13",
+      "assignmentTitle": "CS 101 Test 7",
+      "course": "CS 101",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T14:15:00Z",
+      "endTime": "2024-01-31T17:15:00Z",
+      "duration": 180,
+      "topic": "Review for CS 101 Test 7"
+    },
+    {
+      "id": "14",
+      "assignmentTitle": "CS 101 Programming Project",
+      "course": "CS 101",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T13:45:00Z",
+      "endTime": "2024-02-12T17:45:00Z",
+      "duration": 240,
+      "topic": "Work on CS 101 Programming Project"
+    },
+    {
+      "id": "15",
+      "assignmentTitle": "CS 101 Programming Project",
+      "course": "CS 101",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T20:45:00Z",
+      "endTime": "2024-02-14T00:45:00Z",
+      "duration": 240,
+      "topic": "Review for CS 101 Programming Project"
+    },
+    {
+      "id": "16",
+      "assignmentTitle": "CS 101 Lab Report 9",
+      "course": "CS 101",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T14:00:00Z",
+      "endTime": "2024-02-01T15:30:00Z",
+      "duration": 90,
+      "topic": "CS 101 Lab Report 9 - Part 1"
+    },
+    {
+      "id": "17",
+      "assignmentTitle": "CS 101 Lab Report 9",
+      "course": "CS 101",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T14:45:00Z",
+      "endTime": "2024-02-01T16:30:00Z",
+      "duration": 105,
+      "topic": "Review for CS 101 Lab Report 9"
+    },
+    {
+      "id": "18",
+      "assignmentTitle": "CS 101 Essay Assignment",
+      "course": "CS 101",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T17:30:00Z",
+      "endTime": "2024-02-05T21:00:00Z",
+      "duration": 210,
+      "topic": "Work on CS 101 Essay Assignment"
+    },
+    {
+      "id": "19",
+      "assignmentTitle": "CS 101 Homework Chapter 11",
+      "course": "CS 101",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T16:30:00Z",
+      "endTime": "2024-02-12T18:15:00Z",
+      "duration": 105,
+      "topic": "CS 101 Homework Chapter 11"
+    },
+    {
+      "id": "20",
+      "assignmentTitle": "CS 101 Experiment Report",
+      "course": "CS 101",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T12:00:00Z",
+      "endTime": "2024-02-05T14:45:00Z",
+      "duration": 165,
+      "topic": "CS 101 Experiment Report - Part 1"
+    },
+    {
+      "id": "21",
+      "assignmentTitle": "CS 101 Lab Report 13",
+      "course": "CS 101",
+      "date": "2024-01-15",
+      "startTime": "2024-01-15T17:00:00Z",
+      "endTime": "2024-01-15T18:45:00Z",
+      "duration": 105,
+      "topic": "Review for CS 101 Lab Report 13"
+    },
+    {
+      "id": "22",
+      "assignmentTitle": "CS 101 Test 14",
+      "course": "CS 101",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T17:00:00Z",
+      "endTime": "2024-02-06T21:00:00Z",
+      "duration": 240,
+      "topic": "Review for CS 101 Test 14"
+    },
+    {
+      "id": "23",
+      "assignmentTitle": "CS 101 Midterm Exam",
+      "course": "CS 101",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T14:30:00Z",
+      "endTime": "2024-02-08T16:45:00Z",
+      "duration": 135,
+      "topic": "CS 101 Midterm Exam"
+    },
+    {
+      "id": "24",
+      "assignmentTitle": "CS 101 Midterm Exam",
+      "course": "CS 101",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T12:45:00Z",
+      "endTime": "2024-02-09T15:15:00Z",
+      "duration": 150,
+      "topic": "Work on CS 101 Midterm Exam"
+    },
+    {
+      "id": "25",
+      "assignmentTitle": "MATH 301 Experiment Report",
+      "course": "MATH 301",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T10:15:00Z",
+      "endTime": "2024-01-18T11:45:00Z",
+      "duration": 90,
+      "topic": "Review for MATH 301 Experiment Report"
+    },
+    {
+      "id": "26",
+      "assignmentTitle": "MATH 301 Assignment 2",
+      "course": "MATH 301",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T09:30:00Z",
+      "endTime": "2024-02-08T10:45:00Z",
+      "duration": 75,
+      "topic": "Work on MATH 301 Assignment 2"
+    },
+    {
+      "id": "27",
+      "assignmentTitle": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "date": "2024-01-21",
+      "startTime": "2024-01-21T09:15:00Z",
+      "endTime": "2024-01-21T11:00:00Z",
+      "duration": 105,
+      "topic": "Review for MATH 301 Final Exam"
+    },
+    {
+      "id": "28",
+      "assignmentTitle": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T10:45:00Z",
+      "endTime": "2024-01-23T12:30:00Z",
+      "duration": 105,
+      "topic": "MATH 301 Final Exam - Part 2"
+    },
+    {
+      "id": "29",
+      "assignmentTitle": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T09:15:00Z",
+      "endTime": "2024-01-25T11:00:00Z",
+      "duration": 105,
+      "topic": "MATH 301 Final Exam"
+    },
+    {
+      "id": "30",
+      "assignmentTitle": "MATH 301 Quick Check",
+      "course": "MATH 301",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T19:15:00Z",
+      "endTime": "2024-01-31T21:00:00Z",
+      "duration": 105,
+      "topic": "MATH 301 Quick Check - Part 1"
+    },
+    {
+      "id": "31",
+      "assignmentTitle": "MATH 301 Assignment 5",
+      "course": "MATH 301",
+      "date": "2024-01-28",
+      "startTime": "2024-01-28T10:15:00Z",
+      "endTime": "2024-01-28T11:30:00Z",
+      "duration": 75,
+      "topic": "Work on MATH 301 Assignment 5"
+    },
+    {
+      "id": "32",
+      "assignmentTitle": "MATH 301 Problem Set 6",
+      "course": "MATH 301",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T11:30:00Z",
+      "endTime": "2024-01-22T13:00:00Z",
+      "duration": 90,
+      "topic": "MATH 301 Problem Set 6"
+    },
+    {
+      "id": "33",
+      "assignmentTitle": "MATH 301 Test 7",
+      "course": "MATH 301",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T21:00:00Z",
+      "endTime": "2024-01-26T00:00:00Z",
+      "duration": 180,
+      "topic": "MATH 301 Test 7 - Part 1"
+    },
+    {
+      "id": "34",
+      "assignmentTitle": "MATH 301 Test 7",
+      "course": "MATH 301",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:00:00Z",
+      "endTime": "2024-01-26T23:45:00Z",
+      "duration": 225,
+      "topic": "MATH 301 Test 7 - Part 2"
+    },
+    {
+      "id": "35",
+      "assignmentTitle": "MATH 301 Practice Problems 8",
+      "course": "MATH 301",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T10:00:00Z",
+      "endTime": "2024-01-25T12:00:00Z",
+      "duration": 120,
+      "topic": "MATH 301 Practice Problems 8 - Part 1"
+    },
+    {
+      "id": "36",
+      "assignmentTitle": "MATH 301 Final Project",
+      "course": "MATH 301",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T09:15:00Z",
+      "endTime": "2024-01-16T13:00:00Z",
+      "duration": 225,
+      "topic": "MATH 301 Final Project"
+    },
+    {
+      "id": "37",
+      "assignmentTitle": "MATH 301 Final Project",
+      "course": "MATH 301",
+      "date": "2024-01-17",
+      "startTime": "2024-01-17T21:15:00Z",
+      "endTime": "2024-01-18T01:00:00Z",
+      "duration": 225,
+      "topic": "MATH 301 Final Project"
+    },
+    {
+      "id": "38",
+      "assignmentTitle": "MATH 301 Final Project",
+      "course": "MATH 301",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T18:30:00Z",
+      "endTime": "2024-01-19T21:30:00Z",
+      "duration": 180,
+      "topic": "MATH 301 Final Project - Part 3"
+    },
+    {
+      "id": "39",
+      "assignmentTitle": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "date": "2024-01-15",
+      "startTime": "2024-01-15T09:15:00Z",
+      "endTime": "2024-01-15T10:45:00Z",
+      "duration": 90,
+      "topic": "MATH 301 Final Exam - Part 1"
+    },
+    {
+      "id": "40",
+      "assignmentTitle": "MATH 301 Final Exam",
+      "course": "MATH 301",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T19:15:00Z",
+      "endTime": "2024-01-18T21:00:00Z",
+      "duration": 105,
+      "topic": "Review for MATH 301 Final Exam"
+    },
+    {
+      "id": "41",
+      "assignmentTitle": "MATH 301 Homework Chapter 11",
+      "course": "MATH 301",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T21:30:00Z",
+      "endTime": "2024-02-02T23:00:00Z",
+      "duration": 90,
+      "topic": "Review for MATH 301 Homework Chapter 11"
+    },
+    {
+      "id": "42",
+      "assignmentTitle": "MATH 301 Quiz 12",
+      "course": "MATH 301",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T19:45:00Z",
+      "endTime": "2024-01-22T20:45:00Z",
+      "duration": 60,
+      "topic": "Review for MATH 301 Quiz 12"
+    },
+    {
+      "id": "43",
+      "assignmentTitle": "MATH 301 Programming Project",
+      "course": "MATH 301",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T19:15:00Z",
+      "endTime": "2024-02-02T22:45:00Z",
+      "duration": 210,
+      "topic": "Review for MATH 301 Programming Project"
+    },
+    {
+      "id": "44",
+      "assignmentTitle": "MATH 301 Programming Project",
+      "course": "MATH 301",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T18:15:00Z",
+      "endTime": "2024-02-04T22:15:00Z",
+      "duration": 240,
+      "topic": "Work on MATH 301 Programming Project"
+    },
+    {
+      "id": "45",
+      "assignmentTitle": "MATH 301 Lab Report 14",
+      "course": "MATH 301",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T11:45:00Z",
+      "endTime": "2024-01-19T13:45:00Z",
+      "duration": 120,
+      "topic": "MATH 301 Lab Report 14 - Part 1"
+    },
+    {
+      "id": "46",
+      "assignmentTitle": "MATH 301 Assignment 15",
+      "course": "MATH 301",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T21:15:00Z",
+      "endTime": "2024-01-19T22:30:00Z",
+      "duration": 75,
+      "topic": "Review for MATH 301 Assignment 15"
+    },
+    {
+      "id": "47",
+      "assignmentTitle": "CS 201 Final Project",
+      "course": "CS 201",
+      "date": "2024-02-03",
+      "startTime": "2024-02-03T10:30:00Z",
+      "endTime": "2024-02-03T13:15:00Z",
+      "duration": 165,
+      "topic": "CS 201 Final Project - Part 1"
+    },
+    {
+      "id": "48",
+      "assignmentTitle": "CS 201 Final Project",
+      "course": "CS 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T11:15:00Z",
+      "endTime": "2024-02-06T13:45:00Z",
+      "duration": 150,
+      "topic": "CS 201 Final Project - Part 2"
+    },
+    {
+      "id": "49",
+      "assignmentTitle": "CS 201 Final Project",
+      "course": "CS 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T19:45:00Z",
+      "endTime": "2024-02-08T22:00:00Z",
+      "duration": 135,
+      "topic": "Work on CS 201 Final Project"
+    },
+    {
+      "id": "50",
+      "assignmentTitle": "CS 201 Assignment 2",
+      "course": "CS 201",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:00:00Z",
+      "endTime": "2024-01-26T22:30:00Z",
+      "duration": 150,
+      "topic": "CS 201 Assignment 2 - Part 1"
+    },
+    {
+      "id": "51",
+      "assignmentTitle": "CS 201 Quiz 3",
+      "course": "CS 201",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T21:45:00Z",
+      "endTime": "2024-01-18T22:45:00Z",
+      "duration": 60,
+      "topic": "Review for CS 201 Quiz 3"
+    },
+    {
+      "id": "52",
+      "assignmentTitle": "CS 201 Practice Problems 4",
+      "course": "CS 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T21:15:00Z",
+      "endTime": "2024-02-06T23:00:00Z",
+      "duration": 105,
+      "topic": "CS 201 Practice Problems 4"
+    },
+    {
+      "id": "53",
+      "assignmentTitle": "CS 201 Homework Chapter 5",
+      "course": "CS 201",
+      "date": "2024-01-27",
+      "startTime": "2024-01-27T21:30:00Z",
+      "endTime": "2024-01-27T23:30:00Z",
+      "duration": 120,
+      "topic": "CS 201 Homework Chapter 5"
+    },
+    {
+      "id": "54",
+      "assignmentTitle": "CS 201 Essay Assignment",
+      "course": "CS 201",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T17:15:00Z",
+      "endTime": "2024-01-23T21:15:00Z",
+      "duration": 240,
+      "topic": "Review for CS 201 Essay Assignment"
+    },
+    {
+      "id": "55",
+      "assignmentTitle": "CS 201 Quiz 7",
+      "course": "CS 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T11:30:00Z",
+      "endTime": "2024-02-01T12:30:00Z",
+      "duration": 60,
+      "topic": "CS 201 Quiz 7"
+    },
+    {
+      "id": "56",
+      "assignmentTitle": "CS 201 Paper 8",
+      "course": "CS 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T11:45:00Z",
+      "endTime": "2024-02-08T13:00:00Z",
+      "duration": 75,
+      "topic": "Work on CS 201 Paper 8"
+    },
+    {
+      "id": "57",
+      "assignmentTitle": "CS 201 Paper 8",
+      "course": "CS 201",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T11:30:00Z",
+      "endTime": "2024-02-09T12:45:00Z",
+      "duration": 75,
+      "topic": "CS 201 Paper 8"
+    },
+    {
+      "id": "58",
+      "assignmentTitle": "CS 201 Quiz 9",
+      "course": "CS 201",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T20:15:00Z",
+      "endTime": "2024-01-23T21:15:00Z",
+      "duration": 60,
+      "topic": "CS 201 Quiz 9 - Part 1"
+    },
+    {
+      "id": "59",
+      "assignmentTitle": "CS 201 Test 10",
+      "course": "CS 201",
+      "date": "2024-01-20",
+      "startTime": "2024-01-20T09:15:00Z",
+      "endTime": "2024-01-20T11:30:00Z",
+      "duration": 135,
+      "topic": "CS 201 Test 10"
+    },
+    {
+      "id": "60",
+      "assignmentTitle": "CS 201 Test 10",
+      "course": "CS 201",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T19:00:00Z",
+      "endTime": "2024-01-22T20:45:00Z",
+      "duration": 105,
+      "topic": "Review for CS 201 Test 10"
+    },
+    {
+      "id": "61",
+      "assignmentTitle": "CS 201 Test 10",
+      "course": "CS 201",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T18:30:00Z",
+      "endTime": "2024-01-24T20:45:00Z",
+      "duration": 135,
+      "topic": "CS 201 Test 10"
+    },
+    {
+      "id": "62",
+      "assignmentTitle": "CS 201 Research Project",
+      "course": "CS 201",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T19:15:00Z",
+      "endTime": "2024-01-18T23:15:00Z",
+      "duration": 240,
+      "topic": "Review for CS 201 Research Project"
+    },
+    {
+      "id": "63",
+      "assignmentTitle": "CS 201 Research Project",
+      "course": "CS 201",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T09:00:00Z",
+      "endTime": "2024-01-19T12:45:00Z",
+      "duration": 225,
+      "topic": "Review for CS 201 Research Project"
+    },
+    {
+      "id": "64",
+      "assignmentTitle": "CS 201 Assignment 12",
+      "course": "CS 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T20:15:00Z",
+      "endTime": "2024-02-01T21:30:00Z",
+      "duration": 75,
+      "topic": "CS 201 Assignment 12"
+    },
+    {
+      "id": "65",
+      "assignmentTitle": "CS 201 Assignment 12",
+      "course": "CS 201",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T10:00:00Z",
+      "endTime": "2024-02-02T11:00:00Z",
+      "duration": 60,
+      "topic": "CS 201 Assignment 12 - Part 2"
+    },
+    {
+      "id": "66",
+      "assignmentTitle": "CS 201 Lab 13 Write-up",
+      "course": "CS 201",
+      "date": "2024-01-17",
+      "startTime": "2024-01-17T20:30:00Z",
+      "endTime": "2024-01-17T22:45:00Z",
+      "duration": 135,
+      "topic": "Review for CS 201 Lab 13 Write-up"
+    },
+    {
+      "id": "67",
+      "assignmentTitle": "CS 201 Assignment 14",
+      "course": "CS 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T09:15:00Z",
+      "endTime": "2024-02-08T10:15:00Z",
+      "duration": 60,
+      "topic": "CS 201 Assignment 14 - Part 1"
+    },
+    {
+      "id": "68",
+      "assignmentTitle": "CS 201 Problem Set 15",
+      "course": "CS 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T10:00:00Z",
+      "endTime": "2024-02-08T12:30:00Z",
+      "duration": 150,
+      "topic": "CS 201 Problem Set 15"
+    },
+    {
+      "id": "69",
+      "assignmentTitle": "CS 201 Homework Chapter 16",
+      "course": "CS 201",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T18:45:00Z",
+      "endTime": "2024-02-02T21:15:00Z",
+      "duration": 150,
+      "topic": "CS 201 Homework Chapter 16 - Part 1"
+    },
+    {
+      "id": "70",
+      "assignmentTitle": "CS 201 Homework Chapter 17",
+      "course": "CS 201",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T10:30:00Z",
+      "endTime": "2024-02-12T11:45:00Z",
+      "duration": 75,
+      "topic": "Review for CS 201 Homework Chapter 17"
+    },
+    {
+      "id": "71",
+      "assignmentTitle": "ART 150 Term Project",
+      "course": "ART 150",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T13:30:00Z",
+      "endTime": "2024-01-26T17:15:00Z",
+      "duration": 225,
+      "topic": "ART 150 Term Project - Part 1"
+    },
+    {
+      "id": "72",
+      "assignmentTitle": "ART 150 Term Project",
+      "course": "ART 150",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:45:00Z",
+      "endTime": "2024-01-26T23:30:00Z",
+      "duration": 165,
+      "topic": "Work on ART 150 Term Project"
+    },
+    {
+      "id": "73",
+      "assignmentTitle": "ART 150 Midterm Exam",
+      "course": "ART 150",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T13:30:00Z",
+      "endTime": "2024-01-26T16:00:00Z",
+      "duration": 150,
+      "topic": "ART 150 Midterm Exam"
+    },
+    {
+      "id": "74",
+      "assignmentTitle": "ART 150 Midterm Exam",
+      "course": "ART 150",
+      "date": "2024-01-30",
+      "startTime": "2024-01-30T18:00:00Z",
+      "endTime": "2024-01-30T20:30:00Z",
+      "duration": 150,
+      "topic": "ART 150 Midterm Exam"
+    },
+    {
+      "id": "75",
+      "assignmentTitle": "ART 150 Midterm Exam",
+      "course": "ART 150",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T14:15:00Z",
+      "endTime": "2024-01-31T16:15:00Z",
+      "duration": 120,
+      "topic": "Work on ART 150 Midterm Exam"
+    },
+    {
+      "id": "76",
+      "assignmentTitle": "ART 150 Term Project",
+      "course": "ART 150",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T14:30:00Z",
+      "endTime": "2024-02-05T17:15:00Z",
+      "duration": 165,
+      "topic": "Work on ART 150 Term Project"
+    },
+    {
+      "id": "77",
+      "assignmentTitle": "ART 150 Term Project",
+      "course": "ART 150",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T12:30:00Z",
+      "endTime": "2024-02-08T14:45:00Z",
+      "duration": 135,
+      "topic": "Review for ART 150 Term Project"
+    },
+    {
+      "id": "78",
+      "assignmentTitle": "ART 150 Assignment 4",
+      "course": "ART 150",
+      "date": "2024-01-20",
+      "startTime": "2024-01-20T13:00:00Z",
+      "endTime": "2024-01-20T14:30:00Z",
+      "duration": 90,
+      "topic": "Review for ART 150 Assignment 4"
+    },
+    {
+      "id": "79",
+      "assignmentTitle": "ART 150 Research Project",
+      "course": "ART 150",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T16:00:00Z",
+      "endTime": "2024-02-09T20:00:00Z",
+      "duration": 240,
+      "topic": "ART 150 Research Project - Part 1"
+    },
+    {
+      "id": "80",
+      "assignmentTitle": "ART 150 Research Project",
+      "course": "ART 150",
+      "date": "2024-02-11",
+      "startTime": "2024-02-11T12:00:00Z",
+      "endTime": "2024-02-11T16:00:00Z",
+      "duration": 240,
+      "topic": "Review for ART 150 Research Project"
+    },
+    {
+      "id": "81",
+      "assignmentTitle": "ART 150 Quiz 6",
+      "course": "ART 150",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T19:15:00Z",
+      "endTime": "2024-01-26T20:15:00Z",
+      "duration": 60,
+      "topic": "Work on ART 150 Quiz 6"
+    },
+    {
+      "id": "82",
+      "assignmentTitle": "ART 150 Quiz 7",
+      "course": "ART 150",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T12:45:00Z",
+      "endTime": "2024-01-22T13:45:00Z",
+      "duration": 60,
+      "topic": "ART 150 Quiz 7 - Part 1"
+    },
+    {
+      "id": "83",
+      "assignmentTitle": "ART 150 Homework Chapter 8",
+      "course": "ART 150",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T13:15:00Z",
+      "endTime": "2024-02-02T14:45:00Z",
+      "duration": 90,
+      "topic": "Review for ART 150 Homework Chapter 8"
+    },
+    {
+      "id": "84",
+      "assignmentTitle": "ART 150 Quiz 9",
+      "course": "ART 150",
+      "date": "2024-01-17",
+      "startTime": "2024-01-17T18:00:00Z",
+      "endTime": "2024-01-17T19:00:00Z",
+      "duration": 60,
+      "topic": "Review for ART 150 Quiz 9"
+    },
+    {
+      "id": "85",
+      "assignmentTitle": "ART 150 Practice Problems 10",
+      "course": "ART 150",
+      "date": "2024-02-11",
+      "startTime": "2024-02-11T13:00:00Z",
+      "endTime": "2024-02-11T15:15:00Z",
+      "duration": 135,
+      "topic": "ART 150 Practice Problems 10"
+    },
+    {
+      "id": "86",
+      "assignmentTitle": "ART 150 Lab 11 Write-up",
+      "course": "ART 150",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T15:00:00Z",
+      "endTime": "2024-01-22T18:00:00Z",
+      "duration": 180,
+      "topic": "Work on ART 150 Lab 11 Write-up"
+    },
+    {
+      "id": "87",
+      "assignmentTitle": "ART 150 Quiz 12",
+      "course": "ART 150",
+      "date": "2024-01-30",
+      "startTime": "2024-01-30T20:45:00Z",
+      "endTime": "2024-01-30T21:45:00Z",
+      "duration": 60,
+      "topic": "Work on ART 150 Quiz 12"
+    },
+    {
+      "id": "88",
+      "assignmentTitle": "ART 150 Essay Assignment",
+      "course": "ART 150",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T12:30:00Z",
+      "endTime": "2024-01-16T13:45:00Z",
+      "duration": 75,
+      "topic": "Review for ART 150 Essay Assignment"
+    },
+    {
+      "id": "89",
+      "assignmentTitle": "ART 150 Essay Assignment",
+      "course": "ART 150",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T19:00:00Z",
+      "endTime": "2024-01-18T20:00:00Z",
+      "duration": 60,
+      "topic": "ART 150 Essay Assignment - Part 2"
+    },
+    {
+      "id": "90",
+      "assignmentTitle": "ART 150 Final Project",
+      "course": "ART 150",
+      "date": "2024-02-07",
+      "startTime": "2024-02-07T21:15:00Z",
+      "endTime": "2024-02-08T00:00:00Z",
+      "duration": 165,
+      "topic": "ART 150 Final Project"
+    },
+    {
+      "id": "91",
+      "assignmentTitle": "ART 150 Final Project",
+      "course": "ART 150",
+      "date": "2024-02-10",
+      "startTime": "2024-02-10T17:45:00Z",
+      "endTime": "2024-02-10T21:00:00Z",
+      "duration": 195,
+      "topic": "ART 150 Final Project"
+    },
+    {
+      "id": "92",
+      "assignmentTitle": "ART 150 Quiz 15",
+      "course": "ART 150",
+      "date": "2024-01-29",
+      "startTime": "2024-01-29T13:15:00Z",
+      "endTime": "2024-01-29T14:15:00Z",
+      "duration": 60,
+      "topic": "Work on ART 150 Quiz 15"
+    },
+    {
+      "id": "93",
+      "assignmentTitle": "ART 150 Problem Set 16",
+      "course": "ART 150",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T13:15:00Z",
+      "endTime": "2024-01-26T15:15:00Z",
+      "duration": 120,
+      "topic": "Review for ART 150 Problem Set 16"
+    },
+    {
+      "id": "94",
+      "assignmentTitle": "ART 150 Writing Assignment",
+      "course": "ART 150",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T18:15:00Z",
+      "endTime": "2024-02-01T19:30:00Z",
+      "duration": 75,
+      "topic": "Work on ART 150 Writing Assignment"
+    },
+    {
+      "id": "95",
+      "assignmentTitle": "ART 150 Paper 18",
+      "course": "ART 150",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T18:15:00Z",
+      "endTime": "2024-01-16T20:00:00Z",
+      "duration": 105,
+      "topic": "Review for ART 150 Paper 18"
+    },
+    {
+      "id": "96",
+      "assignmentTitle": "ART 150 Paper 18",
+      "course": "ART 150",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T18:45:00Z",
+      "endTime": "2024-01-18T20:30:00Z",
+      "duration": 105,
+      "topic": "ART 150 Paper 18"
+    },
+    {
+      "id": "97",
+      "assignmentTitle": "ART 150 Final Exam",
+      "course": "ART 150",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T18:15:00Z",
+      "endTime": "2024-01-22T21:15:00Z",
+      "duration": 180,
+      "topic": "Work on ART 150 Final Exam"
+    },
+    {
+      "id": "98",
+      "assignmentTitle": "ART 150 Final Exam",
+      "course": "ART 150",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T12:45:00Z",
+      "endTime": "2024-01-24T15:00:00Z",
+      "duration": 135,
+      "topic": "Work on ART 150 Final Exam"
+    },
+    {
+      "id": "99",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T12:45:00Z",
+      "endTime": "2024-02-06T15:30:00Z",
+      "duration": 165,
+      "topic": "MATH 201 Final Project - Part 1"
+    },
+    {
+      "id": "100",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T16:30:00Z",
+      "endTime": "2024-02-08T20:15:00Z",
+      "duration": 225,
+      "topic": "Work on MATH 201 Final Project"
+    },
+    {
+      "id": "101",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T20:15:00Z",
+      "endTime": "2024-02-09T23:30:00Z",
+      "duration": 195,
+      "topic": "MATH 201 Final Project"
+    },
+    {
+      "id": "102",
+      "assignmentTitle": "MATH 201 Lab Report 2",
+      "course": "MATH 201",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T12:00:00Z",
+      "endTime": "2024-02-09T13:30:00Z",
+      "duration": 90,
+      "topic": "Work on MATH 201 Lab Report 2"
+    },
+    {
+      "id": "103",
+      "assignmentTitle": "MATH 201 Lab Report 2",
+      "course": "MATH 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T18:00:00Z",
+      "endTime": "2024-02-08T20:00:00Z",
+      "duration": 120,
+      "topic": "Review for MATH 201 Lab Report 2"
+    },
+    {
+      "id": "104",
+      "assignmentTitle": "MATH 201 Lab 3 Write-up",
+      "course": "MATH 201",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T19:00:00Z",
+      "endTime": "2024-01-22T20:15:00Z",
+      "duration": 75,
+      "topic": "MATH 201 Lab 3 Write-up"
+    },
+    {
+      "id": "105",
+      "assignmentTitle": "MATH 201 Lab 3 Write-up",
+      "course": "MATH 201",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T19:45:00Z",
+      "endTime": "2024-01-25T21:15:00Z",
+      "duration": 90,
+      "topic": "MATH 201 Lab 3 Write-up"
+    },
+    {
+      "id": "106",
+      "assignmentTitle": "MATH 201 Test 4",
+      "course": "MATH 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T18:45:00Z",
+      "endTime": "2024-02-01T20:30:00Z",
+      "duration": 105,
+      "topic": "Review for MATH 201 Test 4"
+    },
+    {
+      "id": "107",
+      "assignmentTitle": "MATH 201 Test 4",
+      "course": "MATH 201",
+      "date": "2024-02-03",
+      "startTime": "2024-02-03T18:30:00Z",
+      "endTime": "2024-02-03T20:30:00Z",
+      "duration": 120,
+      "topic": "MATH 201 Test 4"
+    },
+    {
+      "id": "108",
+      "assignmentTitle": "MATH 201 Test 4",
+      "course": "MATH 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T13:45:00Z",
+      "endTime": "2024-02-06T15:30:00Z",
+      "duration": 105,
+      "topic": "Review for MATH 201 Test 4"
+    },
+    {
+      "id": "109",
+      "assignmentTitle": "MATH 201 Programming Project",
+      "course": "MATH 201",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T17:45:00Z",
+      "endTime": "2024-02-02T21:00:00Z",
+      "duration": 195,
+      "topic": "MATH 201 Programming Project"
+    },
+    {
+      "id": "110",
+      "assignmentTitle": "MATH 201 Programming Project",
+      "course": "MATH 201",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T15:00:00Z",
+      "endTime": "2024-02-04T19:00:00Z",
+      "duration": 240,
+      "topic": "MATH 201 Programming Project - Part 2"
+    },
+    {
+      "id": "111",
+      "assignmentTitle": "MATH 201 Problem Set 6",
+      "course": "MATH 201",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T12:00:00Z",
+      "endTime": "2024-01-26T13:00:00Z",
+      "duration": 60,
+      "topic": "MATH 201 Problem Set 6"
+    },
+    {
+      "id": "112",
+      "assignmentTitle": "MATH 201 Quiz 7",
+      "course": "MATH 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T19:00:00Z",
+      "endTime": "2024-02-08T20:00:00Z",
+      "duration": 60,
+      "topic": "MATH 201 Quiz 7 - Part 1"
+    },
+    {
+      "id": "113",
+      "assignmentTitle": "MATH 201 Pop Quiz",
+      "course": "MATH 201",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T20:30:00Z",
+      "endTime": "2024-02-05T21:30:00Z",
+      "duration": 60,
+      "topic": "Work on MATH 201 Pop Quiz"
+    },
+    {
+      "id": "114",
+      "assignmentTitle": "MATH 201 Assignment 9",
+      "course": "MATH 201",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T16:15:00Z",
+      "endTime": "2024-01-25T17:45:00Z",
+      "duration": 90,
+      "topic": "MATH 201 Assignment 9"
+    },
+    {
+      "id": "115",
+      "assignmentTitle": "MATH 201 Problem Set 10",
+      "course": "MATH 201",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T12:00:00Z",
+      "endTime": "2024-02-09T13:30:00Z",
+      "duration": 90,
+      "topic": "Review for MATH 201 Problem Set 10"
+    },
+    {
+      "id": "116",
+      "assignmentTitle": "MATH 201 Research Project",
+      "course": "MATH 201",
+      "date": "2024-01-11",
+      "startTime": "2024-01-11T17:30:00Z",
+      "endTime": "2024-01-11T21:15:00Z",
+      "duration": 225,
+      "topic": "Work on MATH 201 Research Project"
+    },
+    {
+      "id": "117",
+      "assignmentTitle": "MATH 201 Research Project",
+      "course": "MATH 201",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T21:45:00Z",
+      "endTime": "2024-01-17T01:30:00Z",
+      "duration": 225,
+      "topic": "MATH 201 Research Project - Part 2"
+    },
+    {
+      "id": "118",
+      "assignmentTitle": "MATH 201 Quiz 12",
+      "course": "MATH 201",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T21:00:00Z",
+      "endTime": "2024-01-18T22:00:00Z",
+      "duration": 60,
+      "topic": "MATH 201 Quiz 12 - Part 1"
+    },
+    {
+      "id": "119",
+      "assignmentTitle": "MATH 201 Midterm Exam",
+      "course": "MATH 201",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:00:00Z",
+      "endTime": "2024-01-26T23:15:00Z",
+      "duration": 195,
+      "topic": "MATH 201 Midterm Exam - Part 1"
+    },
+    {
+      "id": "120",
+      "assignmentTitle": "MATH 201 Homework Chapter 14",
+      "course": "MATH 201",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T15:15:00Z",
+      "endTime": "2024-02-12T16:30:00Z",
+      "duration": 75,
+      "topic": "MATH 201 Homework Chapter 14 - Part 1"
+    },
+    {
+      "id": "121",
+      "assignmentTitle": "MATH 201 Assignment 15",
+      "course": "MATH 201",
+      "date": "2024-02-10",
+      "startTime": "2024-02-10T17:45:00Z",
+      "endTime": "2024-02-10T19:15:00Z",
+      "duration": 90,
+      "topic": "MATH 201 Assignment 15 - Part 1"
+    },
+    {
+      "id": "122",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T15:45:00Z",
+      "endTime": "2024-02-01T19:15:00Z",
+      "duration": 210,
+      "topic": "Work on MATH 201 Final Project"
+    },
+    {
+      "id": "123",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T16:15:00Z",
+      "endTime": "2024-02-04T19:45:00Z",
+      "duration": 210,
+      "topic": "Review for MATH 201 Final Project"
+    },
+    {
+      "id": "124",
+      "assignmentTitle": "MATH 201 Final Project",
+      "course": "MATH 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T16:15:00Z",
+      "endTime": "2024-02-06T19:30:00Z",
+      "duration": 195,
+      "topic": "Review for MATH 201 Final Project"
+    },
+    {
+      "id": "125",
+      "assignmentTitle": "BIO 101 Practice Problems 1",
+      "course": "BIO 101",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T19:45:00Z",
+      "endTime": "2024-01-26T21:30:00Z",
+      "duration": 105,
+      "topic": "BIO 101 Practice Problems 1"
+    },
+    {
+      "id": "126",
+      "assignmentTitle": "BIO 101 Final Project",
+      "course": "BIO 101",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T11:45:00Z",
+      "endTime": "2024-02-01T14:45:00Z",
+      "duration": 180,
+      "topic": "Work on BIO 101 Final Project"
+    },
+    {
+      "id": "127",
+      "assignmentTitle": "BIO 101 Final Project",
+      "course": "BIO 101",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T18:30:00Z",
+      "endTime": "2024-02-04T21:30:00Z",
+      "duration": 180,
+      "topic": "BIO 101 Final Project"
+    },
+    {
+      "id": "128",
+      "assignmentTitle": "BIO 101 Writing Assignment",
+      "course": "BIO 101",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T08:15:00Z",
+      "endTime": "2024-01-18T09:15:00Z",
+      "duration": 60,
+      "topic": "BIO 101 Writing Assignment - Part 1"
+    },
+    {
+      "id": "129",
+      "assignmentTitle": "BIO 101 Test 4",
+      "course": "BIO 101",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T21:00:00Z",
+      "endTime": "2024-01-26T23:00:00Z",
+      "duration": 120,
+      "topic": "BIO 101 Test 4 - Part 1"
+    },
+    {
+      "id": "130",
+      "assignmentTitle": "BIO 101 Test 4",
+      "course": "BIO 101",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:30:00Z",
+      "endTime": "2024-01-26T22:15:00Z",
+      "duration": 105,
+      "topic": "Review for BIO 101 Test 4"
+    },
+    {
+      "id": "131",
+      "assignmentTitle": "BIO 101 Problem Set 5",
+      "course": "BIO 101",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T17:30:00Z",
+      "endTime": "2024-01-25T19:45:00Z",
+      "duration": 135,
+      "topic": "BIO 101 Problem Set 5 - Part 1"
+    },
+    {
+      "id": "132",
+      "assignmentTitle": "BIO 101 Midterm Exam",
+      "course": "BIO 101",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T19:45:00Z",
+      "endTime": "2024-02-02T22:00:00Z",
+      "duration": 135,
+      "topic": "Review for BIO 101 Midterm Exam"
+    },
+    {
+      "id": "133",
+      "assignmentTitle": "BIO 101 Midterm Exam",
+      "course": "BIO 101",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T18:00:00Z",
+      "endTime": "2024-02-04T20:00:00Z",
+      "duration": 120,
+      "topic": "BIO 101 Midterm Exam - Part 2"
+    },
+    {
+      "id": "134",
+      "assignmentTitle": "BIO 101 Midterm Exam",
+      "course": "BIO 101",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T10:00:00Z",
+      "endTime": "2024-02-05T12:15:00Z",
+      "duration": 135,
+      "topic": "Work on BIO 101 Midterm Exam"
+    },
+    {
+      "id": "135",
+      "assignmentTitle": "BIO 101 Practice Problems 7",
+      "course": "BIO 101",
+      "date": "2024-01-29",
+      "startTime": "2024-01-29T21:30:00Z",
+      "endTime": "2024-01-29T23:45:00Z",
+      "duration": 135,
+      "topic": "Review for BIO 101 Practice Problems 7"
+    },
+    {
+      "id": "136",
+      "assignmentTitle": "BIO 101 Problem Set 8",
+      "course": "BIO 101",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T09:15:00Z",
+      "endTime": "2024-01-16T10:15:00Z",
+      "duration": 60,
+      "topic": "BIO 101 Problem Set 8 - Part 1"
+    },
+    {
+      "id": "137",
+      "assignmentTitle": "BIO 101 Quiz 9",
+      "course": "BIO 101",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T19:30:00Z",
+      "endTime": "2024-01-22T20:45:00Z",
+      "duration": 75,
+      "topic": "Work on BIO 101 Quiz 9"
+    },
+    {
+      "id": "138",
+      "assignmentTitle": "BIO 101 Term Project",
+      "course": "BIO 101",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T08:00:00Z",
+      "endTime": "2024-01-24T12:00:00Z",
+      "duration": 240,
+      "topic": "Review for BIO 101 Term Project"
+    },
+    {
+      "id": "139",
+      "assignmentTitle": "BIO 101 Term Project",
+      "course": "BIO 101",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T21:30:00Z",
+      "endTime": "2024-01-26T01:15:00Z",
+      "duration": 225,
+      "topic": "BIO 101 Term Project - Part 2"
+    },
+    {
+      "id": "140",
+      "assignmentTitle": "BIO 101 Final Exam",
+      "course": "BIO 101",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T18:00:00Z",
+      "endTime": "2024-01-26T20:30:00Z",
+      "duration": 150,
+      "topic": "Work on BIO 101 Final Exam"
+    },
+    {
+      "id": "141",
+      "assignmentTitle": "BIO 101 Final Exam",
+      "course": "BIO 101",
+      "date": "2024-01-29",
+      "startTime": "2024-01-29T19:15:00Z",
+      "endTime": "2024-01-29T21:15:00Z",
+      "duration": 120,
+      "topic": "BIO 101 Final Exam"
+    },
+    {
+      "id": "142",
+      "assignmentTitle": "BIO 101 Assignment 12",
+      "course": "BIO 101",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T11:00:00Z",
+      "endTime": "2024-02-09T12:30:00Z",
+      "duration": 90,
+      "topic": "Review for BIO 101 Assignment 12"
+    },
+    {
+      "id": "143",
+      "assignmentTitle": "BIO 101 Assignment 12",
+      "course": "BIO 101",
+      "date": "2024-02-10",
+      "startTime": "2024-02-10T21:00:00Z",
+      "endTime": "2024-02-10T22:00:00Z",
+      "duration": 60,
+      "topic": "Work on BIO 101 Assignment 12"
+    },
+    {
+      "id": "144",
+      "assignmentTitle": "BIO 101 Lab Report 13",
+      "course": "BIO 101",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T10:45:00Z",
+      "endTime": "2024-01-24T13:15:00Z",
+      "duration": 150,
+      "topic": "Work on BIO 101 Lab Report 13"
+    },
+    {
+      "id": "145",
+      "assignmentTitle": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "date": "2024-01-11",
+      "startTime": "2024-01-11T12:30:00Z",
+      "endTime": "2024-01-11T14:45:00Z",
+      "duration": 135,
+      "topic": "Review for ENG 201 Final Exam"
+    },
+    {
+      "id": "146",
+      "assignmentTitle": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "date": "2024-01-15",
+      "startTime": "2024-01-15T12:30:00Z",
+      "endTime": "2024-01-15T14:30:00Z",
+      "duration": 120,
+      "topic": "ENG 201 Final Exam - Part 2"
+    },
+    {
+      "id": "147",
+      "assignmentTitle": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T18:45:00Z",
+      "endTime": "2024-01-31T21:00:00Z",
+      "duration": 135,
+      "topic": "ENG 201 Midterm Exam"
+    },
+    {
+      "id": "148",
+      "assignmentTitle": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T18:15:00Z",
+      "endTime": "2024-02-02T20:30:00Z",
+      "duration": 135,
+      "topic": "ENG 201 Midterm Exam"
+    },
+    {
+      "id": "149",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-01-22",
+      "startTime": "2024-01-22T16:00:00Z",
+      "endTime": "2024-01-22T19:30:00Z",
+      "duration": 210,
+      "topic": "Work on ENG 201 Programming Project"
+    },
+    {
+      "id": "150",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T12:30:00Z",
+      "endTime": "2024-01-24T15:15:00Z",
+      "duration": 165,
+      "topic": "Review for ENG 201 Programming Project"
+    },
+    {
+      "id": "151",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T16:45:00Z",
+      "endTime": "2024-01-25T20:00:00Z",
+      "duration": 195,
+      "topic": "Work on ENG 201 Programming Project"
+    },
+    {
+      "id": "152",
+      "assignmentTitle": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T16:15:00Z",
+      "endTime": "2024-01-26T20:00:00Z",
+      "duration": 225,
+      "topic": "Work on ENG 201 Final Exam"
+    },
+    {
+      "id": "153",
+      "assignmentTitle": "ENG 201 Final Exam",
+      "course": "ENG 201",
+      "date": "2024-01-29",
+      "startTime": "2024-01-29T21:45:00Z",
+      "endTime": "2024-01-30T00:45:00Z",
+      "duration": 180,
+      "topic": "Review for ENG 201 Final Exam"
+    },
+    {
+      "id": "154",
+      "assignmentTitle": "ENG 201 Practice Problems 5",
+      "course": "ENG 201",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T16:45:00Z",
+      "endTime": "2024-01-31T18:45:00Z",
+      "duration": 120,
+      "topic": "ENG 201 Practice Problems 5"
+    },
+    {
+      "id": "155",
+      "assignmentTitle": "ENG 201 Paper 6",
+      "course": "ENG 201",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T14:15:00Z",
+      "endTime": "2024-01-23T15:45:00Z",
+      "duration": 90,
+      "topic": "ENG 201 Paper 6 - Part 1"
+    },
+    {
+      "id": "156",
+      "assignmentTitle": "ENG 201 Paper 6",
+      "course": "ENG 201",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T17:00:00Z",
+      "endTime": "2024-01-26T18:45:00Z",
+      "duration": 105,
+      "topic": "ENG 201 Paper 6 - Part 2"
+    },
+    {
+      "id": "157",
+      "assignmentTitle": "ENG 201 Homework Chapter 7",
+      "course": "ENG 201",
+      "date": "2024-02-10",
+      "startTime": "2024-02-10T20:30:00Z",
+      "endTime": "2024-02-10T23:00:00Z",
+      "duration": 150,
+      "topic": "Work on ENG 201 Homework Chapter 7"
+    },
+    {
+      "id": "158",
+      "assignmentTitle": "ENG 201 Experiment Report",
+      "course": "ENG 201",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T20:15:00Z",
+      "endTime": "2024-02-05T21:45:00Z",
+      "duration": 90,
+      "topic": "Work on ENG 201 Experiment Report"
+    },
+    {
+      "id": "159",
+      "assignmentTitle": "ENG 201 Problem Set 9",
+      "course": "ENG 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T20:00:00Z",
+      "endTime": "2024-02-01T22:00:00Z",
+      "duration": 120,
+      "topic": "ENG 201 Problem Set 9 - Part 1"
+    },
+    {
+      "id": "160",
+      "assignmentTitle": "ENG 201 Quick Check",
+      "course": "ENG 201",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T14:00:00Z",
+      "endTime": "2024-01-18T15:30:00Z",
+      "duration": 90,
+      "topic": "Work on ENG 201 Quick Check"
+    },
+    {
+      "id": "161",
+      "assignmentTitle": "ENG 201 Assignment 11",
+      "course": "ENG 201",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T20:30:00Z",
+      "endTime": "2024-01-19T23:00:00Z",
+      "duration": 150,
+      "topic": "Review for ENG 201 Assignment 11"
+    },
+    {
+      "id": "162",
+      "assignmentTitle": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "date": "2024-01-18",
+      "startTime": "2024-01-18T20:00:00Z",
+      "endTime": "2024-01-18T23:00:00Z",
+      "duration": 180,
+      "topic": "Work on ENG 201 Midterm Exam"
+    },
+    {
+      "id": "163",
+      "assignmentTitle": "ENG 201 Practice Problems 13",
+      "course": "ENG 201",
+      "date": "2024-02-04",
+      "startTime": "2024-02-04T16:30:00Z",
+      "endTime": "2024-02-04T18:45:00Z",
+      "duration": 135,
+      "topic": "Review for ENG 201 Practice Problems 13"
+    },
+    {
+      "id": "164",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T12:00:00Z",
+      "endTime": "2024-02-06T16:00:00Z",
+      "duration": 240,
+      "topic": "ENG 201 Programming Project - Part 1"
+    },
+    {
+      "id": "165",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T18:30:00Z",
+      "endTime": "2024-02-08T21:30:00Z",
+      "duration": 180,
+      "topic": "ENG 201 Programming Project"
+    },
+    {
+      "id": "166",
+      "assignmentTitle": "ENG 201 Programming Project",
+      "course": "ENG 201",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T14:15:00Z",
+      "endTime": "2024-02-09T17:45:00Z",
+      "duration": 210,
+      "topic": "ENG 201 Programming Project - Part 3"
+    },
+    {
+      "id": "167",
+      "assignmentTitle": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T18:00:00Z",
+      "endTime": "2024-01-23T20:45:00Z",
+      "duration": 165,
+      "topic": "ENG 201 Midterm Exam - Part 1"
+    },
+    {
+      "id": "168",
+      "assignmentTitle": "ENG 201 Midterm Exam",
+      "course": "ENG 201",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T18:15:00Z",
+      "endTime": "2024-01-24T21:00:00Z",
+      "duration": 165,
+      "topic": "ENG 201 Midterm Exam - Part 2"
+    },
+    {
+      "id": "169",
+      "assignmentTitle": "ENG 201 Homework Chapter 16",
+      "course": "ENG 201",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T13:30:00Z",
+      "endTime": "2024-02-02T14:30:00Z",
+      "duration": 60,
+      "topic": "Review for ENG 201 Homework Chapter 16"
+    },
+    {
+      "id": "170",
+      "assignmentTitle": "ENG 201 Homework Chapter 16",
+      "course": "ENG 201",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T17:15:00Z",
+      "endTime": "2024-02-05T18:30:00Z",
+      "duration": 75,
+      "topic": "Work on ENG 201 Homework Chapter 16"
+    },
+    {
+      "id": "171",
+      "assignmentTitle": "ENG 201 Problem Set 17",
+      "course": "ENG 201",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T17:15:00Z",
+      "endTime": "2024-02-01T19:00:00Z",
+      "duration": 105,
+      "topic": "Work on ENG 201 Problem Set 17"
+    },
+    {
+      "id": "172",
+      "assignmentTitle": "STAT 250 Final Exam",
+      "course": "STAT 250",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T11:15:00Z",
+      "endTime": "2024-01-19T13:15:00Z",
+      "duration": 120,
+      "topic": "STAT 250 Final Exam"
+    },
+    {
+      "id": "173",
+      "assignmentTitle": "STAT 250 Final Exam",
+      "course": "STAT 250",
+      "date": "2024-01-21",
+      "startTime": "2024-01-21T20:30:00Z",
+      "endTime": "2024-01-21T23:00:00Z",
+      "duration": 150,
+      "topic": "STAT 250 Final Exam - Part 2"
+    },
+    {
+      "id": "174",
+      "assignmentTitle": "STAT 250 Test 2",
+      "course": "STAT 250",
+      "date": "2024-01-29",
+      "startTime": "2024-01-29T19:30:00Z",
+      "endTime": "2024-01-29T22:45:00Z",
+      "duration": 195,
+      "topic": "STAT 250 Test 2 - Part 1"
+    },
+    {
+      "id": "175",
+      "assignmentTitle": "STAT 250 Test 2",
+      "course": "STAT 250",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T11:00:00Z",
+      "endTime": "2024-01-31T13:45:00Z",
+      "duration": 165,
+      "topic": "STAT 250 Test 2 - Part 2"
+    },
+    {
+      "id": "176",
+      "assignmentTitle": "STAT 250 Assignment 3",
+      "course": "STAT 250",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T19:30:00Z",
+      "endTime": "2024-01-23T20:30:00Z",
+      "duration": 60,
+      "topic": "Review for STAT 250 Assignment 3"
+    },
+    {
+      "id": "177",
+      "assignmentTitle": "STAT 250 Assignment 3",
+      "course": "STAT 250",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T20:30:00Z",
+      "endTime": "2024-01-25T21:30:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Assignment 3 - Part 2"
+    },
+    {
+      "id": "178",
+      "assignmentTitle": "STAT 250 Practice Problems 4",
+      "course": "STAT 250",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T08:45:00Z",
+      "endTime": "2024-02-09T09:45:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Practice Problems 4 - Part 1"
+    },
+    {
+      "id": "179",
+      "assignmentTitle": "STAT 250 Practice Problems 4",
+      "course": "STAT 250",
+      "date": "2024-02-11",
+      "startTime": "2024-02-11T10:45:00Z",
+      "endTime": "2024-02-11T11:45:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Practice Problems 4 - Part 2"
+    },
+    {
+      "id": "180",
+      "assignmentTitle": "STAT 250 Homework Chapter 5",
+      "course": "STAT 250",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T18:45:00Z",
+      "endTime": "2024-02-01T20:15:00Z",
+      "duration": 90,
+      "topic": "Review for STAT 250 Homework Chapter 5"
+    },
+    {
+      "id": "181",
+      "assignmentTitle": "STAT 250 Practice Problems 6",
+      "course": "STAT 250",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T11:15:00Z",
+      "endTime": "2024-02-08T12:45:00Z",
+      "duration": 90,
+      "topic": "STAT 250 Practice Problems 6"
+    },
+    {
+      "id": "182",
+      "assignmentTitle": "STAT 250 Paper 7",
+      "course": "STAT 250",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T10:00:00Z",
+      "endTime": "2024-02-09T13:45:00Z",
+      "duration": 225,
+      "topic": "Review for STAT 250 Paper 7"
+    },
+    {
+      "id": "183",
+      "assignmentTitle": "STAT 250 Term Project",
+      "course": "STAT 250",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T17:45:00Z",
+      "endTime": "2024-01-26T20:00:00Z",
+      "duration": 135,
+      "topic": "Review for STAT 250 Term Project"
+    },
+    {
+      "id": "184",
+      "assignmentTitle": "STAT 250 Term Project",
+      "course": "STAT 250",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T20:15:00Z",
+      "endTime": "2024-01-26T23:15:00Z",
+      "duration": 180,
+      "topic": "Work on STAT 250 Term Project"
+    },
+    {
+      "id": "185",
+      "assignmentTitle": "STAT 250 Term Project",
+      "course": "STAT 250",
+      "date": "2024-01-30",
+      "startTime": "2024-01-30T11:15:00Z",
+      "endTime": "2024-01-30T13:30:00Z",
+      "duration": 135,
+      "topic": "STAT 250 Term Project - Part 3"
+    },
+    {
+      "id": "186",
+      "assignmentTitle": "STAT 250 Term Project",
+      "course": "STAT 250",
+      "date": "2024-02-01",
+      "startTime": "2024-02-01T20:00:00Z",
+      "endTime": "2024-02-01T23:00:00Z",
+      "duration": 180,
+      "topic": "Work on STAT 250 Term Project"
+    },
+    {
+      "id": "187",
+      "assignmentTitle": "STAT 250 Problem Set 9",
+      "course": "STAT 250",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T19:00:00Z",
+      "endTime": "2024-02-09T20:00:00Z",
+      "duration": 60,
+      "topic": "Review for STAT 250 Problem Set 9"
+    },
+    {
+      "id": "188",
+      "assignmentTitle": "STAT 250 Problem Set 9",
+      "course": "STAT 250",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T19:30:00Z",
+      "endTime": "2024-02-12T20:30:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Problem Set 9 - Part 2"
+    },
+    {
+      "id": "189",
+      "assignmentTitle": "STAT 250 Homework Chapter 10",
+      "course": "STAT 250",
+      "date": "2024-01-30",
+      "startTime": "2024-01-30T18:00:00Z",
+      "endTime": "2024-01-30T19:30:00Z",
+      "duration": 90,
+      "topic": "STAT 250 Homework Chapter 10 - Part 1"
+    },
+    {
+      "id": "190",
+      "assignmentTitle": "STAT 250 Homework Chapter 11",
+      "course": "STAT 250",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T17:45:00Z",
+      "endTime": "2024-01-19T19:45:00Z",
+      "duration": 120,
+      "topic": "Review for STAT 250 Homework Chapter 11"
+    },
+    {
+      "id": "191",
+      "assignmentTitle": "STAT 250 Problem Set 12",
+      "course": "STAT 250",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T18:30:00Z",
+      "endTime": "2024-02-05T19:45:00Z",
+      "duration": 75,
+      "topic": "STAT 250 Problem Set 12 - Part 1"
+    },
+    {
+      "id": "192",
+      "assignmentTitle": "STAT 250 Programming Project",
+      "course": "STAT 250",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T21:30:00Z",
+      "endTime": "2024-01-17T01:30:00Z",
+      "duration": 240,
+      "topic": "Work on STAT 250 Programming Project"
+    },
+    {
+      "id": "193",
+      "assignmentTitle": "STAT 250 Problem Set 14",
+      "course": "STAT 250",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T20:15:00Z",
+      "endTime": "2024-01-24T21:15:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Problem Set 14"
+    },
+    {
+      "id": "194",
+      "assignmentTitle": "STAT 250 Problem Set 14",
+      "course": "STAT 250",
+      "date": "2024-01-26",
+      "startTime": "2024-01-26T17:15:00Z",
+      "endTime": "2024-01-26T18:30:00Z",
+      "duration": 75,
+      "topic": "STAT 250 Problem Set 14 - Part 2"
+    },
+    {
+      "id": "195",
+      "assignmentTitle": "STAT 250 Assignment 15",
+      "course": "STAT 250",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T18:45:00Z",
+      "endTime": "2024-01-25T20:30:00Z",
+      "duration": 105,
+      "topic": "Work on STAT 250 Assignment 15"
+    },
+    {
+      "id": "196",
+      "assignmentTitle": "STAT 250 Quiz 16",
+      "course": "STAT 250",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T21:45:00Z",
+      "endTime": "2024-02-05T22:45:00Z",
+      "duration": 60,
+      "topic": "STAT 250 Quiz 16"
+    },
+    {
+      "id": "197",
+      "assignmentTitle": "STAT 250 Homework Chapter 17",
+      "course": "STAT 250",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T08:00:00Z",
+      "endTime": "2024-02-13T09:45:00Z",
+      "duration": 105,
+      "topic": "Work on STAT 250 Homework Chapter 17"
+    },
+    {
+      "id": "198",
+      "assignmentTitle": "STAT 250 Practice Problems 18",
+      "course": "STAT 250",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T10:15:00Z",
+      "endTime": "2024-02-08T12:15:00Z",
+      "duration": 120,
+      "topic": "STAT 250 Practice Problems 18"
+    },
+    {
+      "id": "199",
+      "assignmentTitle": "STAT 250 Research Project",
+      "course": "STAT 250",
+      "date": "2024-01-15",
+      "startTime": "2024-01-15T08:00:00Z",
+      "endTime": "2024-01-15T11:00:00Z",
+      "duration": 180,
+      "topic": "STAT 250 Research Project - Part 1"
+    },
+    {
+      "id": "200",
+      "assignmentTitle": "STAT 250 Research Project",
+      "course": "STAT 250",
+      "date": "2024-01-17",
+      "startTime": "2024-01-17T11:45:00Z",
+      "endTime": "2024-01-17T14:15:00Z",
+      "duration": 150,
+      "topic": "STAT 250 Research Project"
+    },
+    {
+      "id": "201",
+      "assignmentTitle": "STAT 250 Quiz 20",
+      "course": "STAT 250",
+      "date": "2024-01-30",
+      "startTime": "2024-01-30T19:45:00Z",
+      "endTime": "2024-01-30T21:00:00Z",
+      "duration": 75,
+      "topic": "Work on STAT 250 Quiz 20"
+    },
+    {
+      "id": "202",
+      "assignmentTitle": "STAT 250 Final Project",
+      "course": "STAT 250",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T20:15:00Z",
+      "endTime": "2024-02-06T23:00:00Z",
+      "duration": 165,
+      "topic": "STAT 250 Final Project - Part 1"
+    },
+    {
+      "id": "203",
+      "assignmentTitle": "STAT 250 Final Project",
+      "course": "STAT 250",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T19:15:00Z",
+      "endTime": "2024-02-09T22:00:00Z",
+      "duration": 165,
+      "topic": "Work on STAT 250 Final Project"
+    },
+    {
+      "id": "204",
+      "assignmentTitle": "STAT 250 Final Project",
+      "course": "STAT 250",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T18:45:00Z",
+      "endTime": "2024-02-09T21:00:00Z",
+      "duration": 135,
+      "topic": "Review for STAT 250 Final Project"
+    },
+    {
+      "id": "205",
+      "assignmentTitle": "STAT 250 Final Project",
+      "course": "STAT 250",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T19:45:00Z",
+      "endTime": "2024-02-13T22:00:00Z",
+      "duration": 135,
+      "topic": "Review for STAT 250 Final Project"
+    },
+    {
+      "id": "206",
+      "assignmentTitle": "CHEM 301 Problem Set 1",
+      "course": "CHEM 301",
+      "date": "2024-01-16",
+      "startTime": "2024-01-16T16:30:00Z",
+      "endTime": "2024-01-16T17:30:00Z",
+      "duration": 60,
+      "topic": "Review for CHEM 301 Problem Set 1"
+    },
+    {
+      "id": "207",
+      "assignmentTitle": "CHEM 301 Assignment 2",
+      "course": "CHEM 301",
+      "date": "2024-01-19",
+      "startTime": "2024-01-19T19:45:00Z",
+      "endTime": "2024-01-19T21:15:00Z",
+      "duration": 90,
+      "topic": "CHEM 301 Assignment 2"
+    },
+    {
+      "id": "208",
+      "assignmentTitle": "CHEM 301 Homework Chapter 3",
+      "course": "CHEM 301",
+      "date": "2024-02-12",
+      "startTime": "2024-02-12T21:00:00Z",
+      "endTime": "2024-02-12T22:45:00Z",
+      "duration": 105,
+      "topic": "CHEM 301 Homework Chapter 3 - Part 1"
+    },
+    {
+      "id": "209",
+      "assignmentTitle": "CHEM 301 Final Exam",
+      "course": "CHEM 301",
+      "date": "2024-02-02",
+      "startTime": "2024-02-02T13:30:00Z",
+      "endTime": "2024-02-02T17:15:00Z",
+      "duration": 225,
+      "topic": "CHEM 301 Final Exam"
+    },
+    {
+      "id": "210",
+      "assignmentTitle": "CHEM 301 Lab Report 5",
+      "course": "CHEM 301",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T16:30:00Z",
+      "endTime": "2024-02-09T17:45:00Z",
+      "duration": 75,
+      "topic": "CHEM 301 Lab Report 5"
+    },
+    {
+      "id": "211",
+      "assignmentTitle": "CHEM 301 Lab Report 5",
+      "course": "CHEM 301",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T12:15:00Z",
+      "endTime": "2024-02-13T13:45:00Z",
+      "duration": 90,
+      "topic": "CHEM 301 Lab Report 5"
+    },
+    {
+      "id": "212",
+      "assignmentTitle": "CHEM 301 Problem Set 6",
+      "course": "CHEM 301",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T17:15:00Z",
+      "endTime": "2024-01-25T19:15:00Z",
+      "duration": 120,
+      "topic": "CHEM 301 Problem Set 6"
+    },
+    {
+      "id": "213",
+      "assignmentTitle": "CHEM 301 Homework Chapter 7",
+      "course": "CHEM 301",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T16:30:00Z",
+      "endTime": "2024-02-13T18:15:00Z",
+      "duration": 105,
+      "topic": "CHEM 301 Homework Chapter 7 - Part 1"
+    },
+    {
+      "id": "214",
+      "assignmentTitle": "PHYS 150 Quiz 1",
+      "course": "PHYS 150",
+      "date": "2024-01-31",
+      "startTime": "2024-01-31T19:45:00Z",
+      "endTime": "2024-01-31T20:45:00Z",
+      "duration": 60,
+      "topic": "Work on PHYS 150 Quiz 1"
+    },
+    {
+      "id": "215",
+      "assignmentTitle": "PHYS 150 Problem Set 2",
+      "course": "PHYS 150",
+      "date": "2024-02-06",
+      "startTime": "2024-02-06T19:30:00Z",
+      "endTime": "2024-02-06T21:15:00Z",
+      "duration": 105,
+      "topic": "Work on PHYS 150 Problem Set 2"
+    },
+    {
+      "id": "216",
+      "assignmentTitle": "PHYS 150 Lab 3 Write-up",
+      "course": "PHYS 150",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T12:00:00Z",
+      "endTime": "2024-01-24T13:15:00Z",
+      "duration": 75,
+      "topic": "PHYS 150 Lab 3 Write-up - Part 1"
+    },
+    {
+      "id": "217",
+      "assignmentTitle": "PHYS 150 Lab 3 Write-up",
+      "course": "PHYS 150",
+      "date": "2024-01-27",
+      "startTime": "2024-01-27T12:45:00Z",
+      "endTime": "2024-01-27T14:00:00Z",
+      "duration": 75,
+      "topic": "PHYS 150 Lab 3 Write-up"
+    },
+    {
+      "id": "218",
+      "assignmentTitle": "PHYS 150 Practice Problems 4",
+      "course": "PHYS 150",
+      "date": "2024-02-13",
+      "startTime": "2024-02-13T13:15:00Z",
+      "endTime": "2024-02-13T14:45:00Z",
+      "duration": 90,
+      "topic": "PHYS 150 Practice Problems 4 - Part 1"
+    },
+    {
+      "id": "219",
+      "assignmentTitle": "PHYS 150 Pop Quiz",
+      "course": "PHYS 150",
+      "date": "2024-02-09",
+      "startTime": "2024-02-09T18:15:00Z",
+      "endTime": "2024-02-09T19:15:00Z",
+      "duration": 60,
+      "topic": "PHYS 150 Pop Quiz - Part 1"
+    },
+    {
+      "id": "220",
+      "assignmentTitle": "PHYS 150 Experiment Report",
+      "course": "PHYS 150",
+      "date": "2024-02-05",
+      "startTime": "2024-02-05T13:00:00Z",
+      "endTime": "2024-02-05T15:00:00Z",
+      "duration": 120,
+      "topic": "Review for PHYS 150 Experiment Report"
+    },
+    {
+      "id": "221",
+      "assignmentTitle": "PHYS 150 Problem Set 7",
+      "course": "PHYS 150",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T13:45:00Z",
+      "endTime": "2024-01-23T15:30:00Z",
+      "duration": 105,
+      "topic": "Work on PHYS 150 Problem Set 7"
+    },
+    {
+      "id": "222",
+      "assignmentTitle": "PHYS 150 Quiz 8",
+      "course": "PHYS 150",
+      "date": "2024-01-24",
+      "startTime": "2024-01-24T19:45:00Z",
+      "endTime": "2024-01-24T20:45:00Z",
+      "duration": 60,
+      "topic": "PHYS 150 Quiz 8 - Part 1"
+    },
+    {
+      "id": "223",
+      "assignmentTitle": "PHYS 150 Homework Chapter 9",
+      "course": "PHYS 150",
+      "date": "2024-02-08",
+      "startTime": "2024-02-08T13:30:00Z",
+      "endTime": "2024-02-08T15:00:00Z",
+      "duration": 90,
+      "topic": "Review for PHYS 150 Homework Chapter 9"
+    },
+    {
+      "id": "224",
+      "assignmentTitle": "PHYS 150 Midterm Exam",
+      "course": "PHYS 150",
+      "date": "2024-01-23",
+      "startTime": "2024-01-23T20:00:00Z",
+      "endTime": "2024-01-23T21:30:00Z",
+      "duration": 90,
+      "topic": "Review for PHYS 150 Midterm Exam"
+    },
+    {
+      "id": "225",
+      "assignmentTitle": "PHYS 150 Midterm Exam",
+      "course": "PHYS 150",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T13:45:00Z",
+      "endTime": "2024-01-25T15:30:00Z",
+      "duration": 105,
+      "topic": "Work on PHYS 150 Midterm Exam"
+    },
+    {
+      "id": "226",
+      "assignmentTitle": "PHYS 150 Midterm Exam",
+      "course": "PHYS 150",
+      "date": "2024-01-25",
+      "startTime": "2024-01-25T12:00:00Z",
+      "endTime": "2024-01-25T13:45:00Z",
+      "duration": 105,
+      "topic": "PHYS 150 Midterm Exam"
+    }
+  ],
+  "metadata": {
+    "totalAssignments": 150,
+    "totalCourses": 10,
+    "totalStudySessions": 226,
+    "generated": true
+  }
+}
